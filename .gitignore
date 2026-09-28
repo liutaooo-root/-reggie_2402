@@ -1,0 +1,22 @@
+# 构建产物
+target/
+node_modules/
+dist/
+build/
+
+# IDE 配置
+.idea/
+*.iml
+*.iws
+*.ipr
+.vscode/
+
+# Eclipse
+.classpath
+.project
+.settings
+
+# 系统与日志
+.DS_Store
+*.log
+logs/
